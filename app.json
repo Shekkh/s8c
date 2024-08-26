@@ -28,12 +28,12 @@
         },
         "TOKEN": {
             "description": " توكن البوت",
-            "value": "7303521315:AAFeZxxZKcfx2qB8tiGWXn5R9xuD78jbt0Q",
+            "value": "7429413042:AAGiDI6vLiAxD1RfxrTe3X9QXxX7Y23cCvQ",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "dpppwbot",
+            "value": "g666bbot",
             "required": true
         }
     }
